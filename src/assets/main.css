@@ -1,0 +1,103 @@
+
+@import "tailwindcss";
+
+.main-menu li:hover > .sub-menu {
+  display: block;
+}
+
+
+.width100percent
+{
+  width:100% !important;
+}
+.width98percent
+{
+  width:98% !important;
+}
+.width96percent
+{
+  width:96% !important;
+}
+.width94percent
+{
+  width:94% !important;
+}
+.width90percent
+{
+  width:90% !important;
+}
+.width85percent
+{
+  width:85% !important;
+}
+.width80percent
+{
+  width:80% !important;
+}
+
+.width75percent
+{
+  width:75% !important;
+}
+.width75percent-max600
+{
+  width:75% !important;max-width:600px !important;
+}
+.width80percent-max600
+{
+  width:80% 
+}
+.width90special
+{
+  width:90% !important;margin-bottom:18px !important;max-width:800px !important;
+}
+
+
+.width400px
+{
+  width:400px !important
+}
+.width300px
+{
+  width:300px !important
+}
+.width200px
+{
+  width:200px !important
+}
+
+.width150px
+{
+  width:150px !important
+}
+.width40px
+{
+  width:40px !important
+}
+.width50px
+{
+  width:50px !important
+}
+.regulargfontweight
+{
+  font-weight:normal !important;
+}
+.font14px
+{
+  font-size:14px !important
+}
+.font13px{
+  font-size:13px !important
+}
+.center
+{
+  text-align: center !important;
+}
+.nocurser 
+{
+  cursor: default !important;
+}
+.cursorpointer , .cursor
+{
+  cursor: pointer !important;
+}
